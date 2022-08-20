@@ -1,0 +1,8 @@
+circle, red, 0, 1
+square, blue, 2, 3
+circle, green, 4, 2
+habal,
+triangle, yellow, 5, -3
+equilateral triangle, pink, -1, -3
+triangle, 2 , 2, red
+2, triangle 
