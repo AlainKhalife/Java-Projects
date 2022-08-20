@@ -1,0 +1,6 @@
+Kelly, 10
+Leo, 42
+Marvin, 15
+Alain, 9
+James, 4
+Sam, 12
